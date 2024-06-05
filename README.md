@@ -7,6 +7,6 @@
 
 
 В случае возникновения проблем с представлением блокнотов на github, ниже представлены ссылки на эти блокноты в Google Colab:
-* data_prepare.ipynb - [data_prepare](https://colab.research.google.com/drive/1fg2a1DRULwghGi9B5jxT9KfE5CkgYoHc?usp=sharing)
-* triple_extraction.ipynb - [data_extraction](https://colab.research.google.com/drive/1N3_8coil3EC4Egk811vsiqj_Oxm0uSop?usp=sharing)
-* triple_filtration.ipynb - [triple_filtration](https://colab.research.google.com/drive/1Qq-AA1ljJ9PuVArBfwcjgR8cJFOnycAh?usp=sharing)
+* data_prepare.ipynb - [data_prepare.ipynb](https://colab.research.google.com/drive/1fg2a1DRULwghGi9B5jxT9KfE5CkgYoHc?usp=sharing)
+* triple_extraction.ipynb - [data_extraction.ipynb](https://colab.research.google.com/drive/1N3_8coil3EC4Egk811vsiqj_Oxm0uSop?usp=sharing)
+* triple_filtration.ipynb - [triple_filtration.ipynb](https://colab.research.google.com/drive/1Qq-AA1ljJ9PuVArBfwcjgR8cJFOnycAh?usp=sharing)
